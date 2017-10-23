@@ -1,0 +1,4 @@
+INFO:root:Speed: 4.00 KM/H, 2.49 MP/H @ 844.50 RPM
+INFO:root:Speed: 7.00 KM/H, 4.35 MP/H @ 645.50 RPM
+INFO:root:Speed: 0.00 KM/H, 0.00 MP/H @ 1034.75 RPM
+INFO:root:Test complete. Time elapsed: 8.10715699196 seconds

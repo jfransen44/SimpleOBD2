@@ -49,4 +49,6 @@ while cur_speed != 0:
     time.sleep(.5)
 
 t0 = time.time() - t0
+logging.info("The vehicle's high speed was : %2.2f KM/H, %2.2f MP/H" % (high_speed))
+logging.info("The vehicle's high RMP was : %5.2f RPM" % (high_RPM))
 logging.info("Test complete. Time elapsed: %s seconds" % t0)
